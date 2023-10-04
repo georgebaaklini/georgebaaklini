@@ -20,11 +20,13 @@ Always open to collaboration and exciting projects. Feel free to reach out!
 
 ## Connect with me:
 
-[<img align="left" alt="George's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="George's Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.png" />][website]
+[<img align="left" alt="George's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="George's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[linkedin]: https://linkedin.com/in/georgebaaklini-dev
+[linkedin]: https://linkedin.com/georgebaaklini-dev
 [website]: https://georgebaaklini.com
+
+
 
 
 
