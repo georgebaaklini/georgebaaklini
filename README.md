@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**georgebaaklini/georgebaaklini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm George Baaklini, a Full Stack Web Developer who graduated from Concordia Bootcamps. I'm passionate about building dynamic and interactive web applications, and I'm always eager to learn more and take on new challenges!
 
-Here are some ideas to get you started:
+## Technologies I'm familiar with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+Always open to collaboration and exciting projects. Feel free to reach out!
+
+
