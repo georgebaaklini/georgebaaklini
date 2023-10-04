@@ -18,4 +18,14 @@ I'm George Baaklini, a Full Stack Web Developer who graduated from Concordia Boo
 
 Always open to collaboration and exciting projects. Feel free to reach out!
 
+## Connect with me:
+
+[<img align="left" alt="George's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="George's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[linkedin]: https://linkedin.com/georgebaaklini-dev
+[website]: https://georgebaaklini.com
+
+
+
 
